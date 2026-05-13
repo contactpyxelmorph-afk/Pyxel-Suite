@@ -60,4 +60,4 @@ Generate palette JSON files and preview images from connected image regions.
 
 ## License
 
-Add your preferred license here.
+MIT License.
