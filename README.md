@@ -61,3 +61,5 @@ Generate palette JSON files and preview images from connected image regions.
 ## License
 
 MIT License.
+
+IMPORTANT NOTE: the app was vibe-coded
